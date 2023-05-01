@@ -1,0 +1,14 @@
++----------------+-----+                                                        
+|         mention|count|
++----------------+-----+
+|        @addthis| 3467|
+|      @tweetmeme| 2985|
+|       @mashable| 2034|
+|    @OGOchoCinco|  901|
+| @DonnieWahlberg|  888|
+|      @mashable:|  879|
+|   @justinbieber|  814|
+|  @RevRunWisdom:|  680|
+|     @johncmayer|  664|
+|@souljaboytellem|  650|
++----------------+-----+
