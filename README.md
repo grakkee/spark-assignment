@@ -11,7 +11,11 @@ First, open a terminal and start a pyspark session.
 `pyspark`
 
 your terminal should look like this:
- ![img](/Screenshot from 2023-04-30 21-44-28.png)
+
+
+
+
+ ![img](/screenshot.png)
 
 In a second terminal, navigate to the working directory that contain the desired scripts, either q1.py or q2.py
 All you have to do is run: 
